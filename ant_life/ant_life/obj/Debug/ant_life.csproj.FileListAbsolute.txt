@@ -1,0 +1,7 @@
+C:\Users\spido\OneDrive - Дневник.ру\sources\ant_life\ant_life\ant_life\bin\Debug\ant_life.exe.config
+C:\Users\spido\OneDrive - Дневник.ру\sources\ant_life\ant_life\ant_life\bin\Debug\ant_life.exe
+C:\Users\spido\OneDrive - Дневник.ру\sources\ant_life\ant_life\ant_life\bin\Debug\ant_life.pdb
+C:\Users\spido\OneDrive - Дневник.ру\sources\ant_life\ant_life\ant_life\obj\Debug\ant_life.csprojAssemblyReference.cache
+C:\Users\spido\OneDrive - Дневник.ру\sources\ant_life\ant_life\ant_life\obj\Debug\ant_life.csproj.CoreCompileInputs.cache
+C:\Users\spido\OneDrive - Дневник.ру\sources\ant_life\ant_life\ant_life\obj\Debug\ant_life.exe
+C:\Users\spido\OneDrive - Дневник.ру\sources\ant_life\ant_life\ant_life\obj\Debug\ant_life.pdb
