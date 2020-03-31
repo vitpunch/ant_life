@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace ant_life
 {
-    class Program
+    class AntWorker:Ant
     {
-        static void Main()
+        public AntWorker()
         {
-            PlayingArea.ClearFromObject(1);
-            Console.ReadLine();
+            maxHealth = 50;
         }
     }
 }

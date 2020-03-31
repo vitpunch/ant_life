@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace ant_life
 {
-    class Program
+    class Ant : Animal
     {
-        static void Main()
-        {
-            PlayingArea.ClearFromObject(1);
-            Console.ReadLine();
+        public Ant()
+        {            
         }
+        
     }
 }
